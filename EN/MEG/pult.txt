@@ -1,0 +1,33 @@
+Pokémon: 23
+4 Dreepy TWM 128
+4 Drakloak TWM 129
+3 Dragapult ex TWM 200
+1 Fezandipiti ex SFA 84
+2 Duskull PRE 35
+2 Dusclops PRE 36
+1 Dusknoir PRE 37
+2 Budew PRE 4
+1 Latias ex SSP 220
+1 Bloodmoon Ursaluna ex TWM 202
+1 Fezandipiti ex SFA 84
+1 Hawlucha SVI 118
+1 Munkidori TWM 95
+
+Trainer: 30
+4 Lillie's Determination MEG 119
+4 Iono PAL 185
+2 Boss's Orders MEG 114
+1 Brock's Scouting JTG 146
+2 Hilda WHT 84
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball MEG 131
+3 Counter Catcher PAR 160
+3 Night Stretcher SFA 61
+2 Rare Candy MEG 125
+1 Jamming Tower TWM 153
+
+Energy: 7
+3 Luminous Energy PAL 191
+2 Psychic Energy SVE 13
+1 Fire Energy SVE 10
+1 Neo Upper Energy TEF 162

@@ -1,0 +1,41 @@
+Pokémon: 22
+4 Hoothoot SCR 114
+4 Noctowl SCR 115
+2 Wellspring Mask Ogerpon ex TWM 64
+2 Fan Rotom SCR 118
+1 Lillie's Clefairy ex JTG 56
+1 Teal Mask Ogerpon ex TWM 25
+1 Ditto MEW 132
+1 Mew ex MEW 151
+1 Fezandipiti ex SFA 38
+1 Bloodmoon Ursaluna ex TWM 141
+1 Pikachu ex SSP 57
+1 Iron Leaves ex TEF 25
+1 Iron Bundle PAR 56
+1 Latias ex SSP 76
+
+Trainer: 29
+4 Crispin SCR 133
+2 Boss's Orders PAL 172
+1 Professor's Research JTG 155
+1 Iono PAL 185
+1 Professor Turo's Scenario PAR 171
+4 Nest Ball SVI 181
+4 Ultra Ball SVI 196
+2 Energy Switch SVI 173
+1 Night Stretcher SFA 61
+1 Earthen Vessel PAR 163
+1 Super Rod PAL 188
+1 Buddy-Buddy Poffin TEF 144
+1 Tool Scrapper WHT 85
+1 Sparkling Crystal SCR 142
+1 Air Balloon BLK 79
+1 Vitality Band SVI 197
+2 Area Zero Underdepths SCR 131
+
+Energy: 9
+4 Grass Energy SVE 17
+2 Psychic Energy SVE 21
+1 Water Energy SVE 19
+1 Lightning Energy SVE 20
+1 Metal Energy SVE 24

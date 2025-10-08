@@ -1,0 +1,31 @@
+Pokémon: 15
+3 Raging Bolt ex TEF 123
+1 Sandy Shocks ex PAR 108
+4 Teal Mask Ogerpon ex TWM 25
+1 Wellspring Mask Ogerpon ex TWM 64
+1 Mega Kangaskhan ex MEG 104
+1 Fezandipiti ex SFA 38
+1 Latias ex SSP 76
+1 Mew ex MEW 151
+1 Squawkabilly ex PAL 169
+1 Budew PRE 4
+
+Trainer: 33
+4 Ultra Ball MEG 131
+4 Nest Ball SVI 181
+4 Earthen Vessel PAR 163
+4 Energy Switch MEG 115
+2 Superior Energy Retrieval PAL 189
+1 Night Stretcher SFA 61
+1 Prime Catcher PRE 119
+4 Lillie's Determination MEG 119
+3 Boss's Orders MEG 114
+2 Professor Sada's Vitality PRE 120
+1 Crispin SCR 133
+3 Area Zero Underdepths SCR 131
+
+Energy: 12
+6 Basic Grass Energy SVE 9
+3 Basic Lightning Energy SVE 12
+2 Basic Fighting Energy SVE 14
+1 Basic Water Energy SVE 11

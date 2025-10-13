@@ -1,0 +1,29 @@
+Pokémon: 16
+3 Charmander PAF 7
+1 Charmeleon PAF 8
+1 Charmeleon MEW 5
+2 Charizard ex OBF 125
+2 Pidgey MEW 16
+1 Pidgeotto MEW 17
+2 Pidgeot ex OBF 164
+2 Munkidori TWM 95
+1 Fezandipiti ex SFA 38
+1 Chi-Yu PAR 29
+
+Trainer: 30
+4 Lillie's Determination MEG 119
+2 Arven OBF 186
+2 Boss's Orders MEG 114
+2 Iono PAL 185
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball MEG 131
+3 Rare Candy MEG 125
+2 Super Rod PAL 188
+2 Counter Catcher PAR 160
+2 Technical Machine: Evolution PAR 178
+1 Maximum Belt TEF 154
+2 Artazon PAL 171
+
+Energy: 8
+5 Fire Energy SVE 18
+3 Luminous Energy PAL 191

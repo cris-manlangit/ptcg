@@ -21,7 +21,7 @@ Trainer: 29
 3 Counter Catcher PAR 160
 3 Night Stretcher SFA 61
 2 Rare Candy MEG 125
-1 Jamming Tower TWM 153
+2 Jamming Tower TWM 153
 
 Energy: 7
 3 Luminous Energy PAL 191
